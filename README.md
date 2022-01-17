@@ -20,8 +20,7 @@ Our initial data analysis included the complete student and school data. Maria h
 
 <img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/updated.png">
 
-<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/original.png">
- 
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/278b967ee1c448b0df60f508e2238a8fa4e02081/Resources/original.png">
  
 * School Summary Changes for Thomas Edison High School:
   
@@ -55,8 +54,6 @@ From our modified dataset, we analyzed math and reading scores by Grade Level to
 
 ## Summary
 
-After having replaced ninth grade student grades at Thomas High School with NaNs, we came to the conclusion that were changes were made in the updated school district analysis which we can determine arose from academic dishonesty. For the districts as a whole, the most impacted key metric was the overall combined passing math and reading percentages which decreased by 0.3%. For Thomas High School itself, the overall passing math and reading percentage decreased the most of all metrics, with another decrease of 0.3%. The average passing reading percentage for the school experienced also another 0.3% decrease while the average passing math percentage 0.09%. Because of the small percentage, we can attribute both numbers to be the same here due to approximation and clearly passing reading percentage had the most impact on overall passing percentage for the combined scores. A significant difference was observed for Spending Ranges (per student) against math and reading averages and passing percentages. 
+After having replaced ninth grade student grades at Thomas High School with NaNs, we came to the conclusion that were changes were made in the updated school district analysis which we can determine arose from academic dishonesty. For the districts as a whole, the most impacted key metric was the overall combined passing math and reading percentages which decreased by 0.3%. For Thomas High School itself, the overall passing math and reading percentage decreased the most of all metrics, with another decrease of 0.3%. The average passing reading percentage for the school experienced also another 0.3% decrease while the average passing math percentage 0.09%. Because of the small percentage, we can attribute both numbers to be the same here due to approximation and clearly passing reading percentage had the most impact on overall passing percentage for the combined scores. An insignificant difference was observed for Spending Ranges (per student) against math and reading averages and passing percentages. None of the values changed which indicates that our necessary changes did not affect this particular outcome. Lastly, the same outcome occured for Scores by School Size. Fortunately, our omitted changes had zero effect on either of the school size groups which shows that it was insignificant. It is important to document, analyze, and understand changes to data because it helps us understand the trends we are visualizing. And for our stakeholder, this data ultimately affects the budget and allocation of money, and precision is key. 
 
-
-ulitamtely budget and allocation of money
 
