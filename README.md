@@ -16,9 +16,12 @@ Our initial data analysis included the complete student and school data. Maria h
   * Average reading score remained untouched.
   * Average passing math percentage decreased 0.2%.
   * Average passing reading percentage decreased 0.1%
-  * Overal combined passing math and reading percentage decreased 0.3%.
+  * Overall combined passing math and reading percentage decreased 0.3%.
 
-*image
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/updated.png">
+
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/original.png">
+ 
  
 * School Summary Changes for Thomas Edison High School:
   
@@ -26,35 +29,34 @@ Our initial data analysis included the complete student and school data. Maria h
   * Average reading score increased by 0.05%
   * Average passing math percentage decreased 0.09%
   * Average passing reading percentage decreased 0.3%
-  * Overal combined passing math and reading percentage decreased by 0.3%
-
-*image
+  * Overall combined passing math and reading percentages decreased by 0.3%
 
 * Thomas High School’s performance relative to the other schools remained unchanged after removing even after having been omitted from the second data analysis. Thomas High School is still ranked 2nd among the 15 high schools. 
 
-*image
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/top%20schools.png">
 
 * Math and Reading Scores by Grade Level
 
 From our modified dataset, we analyzed math and reading scores by Grade Level to see if one outperformed the others. We determined that Grade Level did not affected the averages for math and reading scores. There was no distinct pattern and if there had been any difference between the score averages, it was less than 1-2% difference at most.
 
-*image
 
 * Scores by School Spending
 
-A significant difference was observed for Spending Ranges (per student) against math and reading averages and passing percentages. 
-
-*image
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/spending.png">
 
 * Scores by School Size
 
-*image
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/school%20size.png">
 
 * Scores by School Type
 
-*image
+<img src="https://github.com/katmarcin/School_District_Analysis/blob/100acb61dd0a5bdc31a08f6acda04b6e4ed43e87/Resources/school%20type.png">
 
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After having replaced ninth grade student grades at Thomas High School with NaNs, we came to the conclusion that were changes were made in the updated school district analysis which we can determine arose from academic dishonesty. For the districts as a whole, the most impacted key metric was the overall combined passing math and reading percentages which decreased by 0.3%. For Thomas High School itself, the overall passing math and reading percentage decreased the most of all metrics, with another decrease of 0.3%. The average passing reading percentage for the school experienced also another 0.3% decrease while the average passing math percentage 0.09%. Because of the small percentage, we can attribute both numbers to be the same here due to approximation and clearly passing reading percentage had the most impact on overall passing percentage for the combined scores. A significant difference was observed for Spending Ranges (per student) against math and reading averages and passing percentages. 
+
+
+ulitamtely budget and allocation of money
+
